@@ -33,5 +33,3 @@
 
 #Win make files
 Makefile.win
-*.win
-Makefile.win
