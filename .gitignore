@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+#Win make files
+Makefile.win
+newproj.layout
